@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "CHY"
 description              : &description "测试"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "测试"
+  name             : "紅色的魚"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Zhejiang University"
+  bio              : "一個即將讀研的一般路過本科生"
+  location         : "杭州 | 浙江 | 中國"
+  employer         : "浙江大學"
   uri              : # URL
   email            : "caihy@zju.edu.cn" 
 
